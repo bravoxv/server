@@ -1,0 +1,334 @@
+[00:54:54] [main/INFO]: Loading Minecraft 1.21.9 with Fabric Loader 0.17.3
+[00:54:55] [main/WARN]: Warnings were found!
+ - Mod 'Dynamic Lights' (dynamiclights) 1.9+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.9.8 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[00:54:55] [main/INFO]: Loading 121 mods:
+	- additionalstructures 5.1.3-fabric
+	- advancednetherite 2.3.1-1.21.9
+	- appleskin 3.0.7+mc1.21.9
+	   \-- cloth-config 20.0.148
+	        \-- cloth-basic-math 0.6.1
+	- awesomedungeonocean 3.3.0
+	- balm 21.9.4
+	   \-- kuma_api 21.9.6
+	- bettervillage 3.3.1
+	- cherry_village 1.21.1-1.0.0-Fabric
+	- chisel 2.2.0+mc1.21.9
+	- collective 8.9
+	- cryonicconfig 1.0.0+mc1.21.9
+	- dynamiclights 1.9+mod
+	- elevatorid 1.21.9-1.14.5
+	   \-- forgeconfigapiport 21.9.8
+	        |-- com_electronwill_night-config_core 3.8.3
+	        \-- com_electronwill_night-config_toml 3.8.3
+	- elytratrims 4.4.0
+	- fabric-api 0.134.0+1.21.9
+	   |-- fabric-api-base 1.0.0+14b92d897d
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682157d
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f7d
+	   |-- fabric-block-api-v1 1.1.5+d17682157d
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b927d
+	   |-- fabric-command-api-v2 2.3.7+328a75ba7d
+	   |-- fabric-content-registries-v0 10.2.3+b6a242647d
+	   |-- fabric-convention-tags-v1 2.1.47+7f945d5b7d
+	   |-- fabric-convention-tags-v2 2.15.12+3154c1c87d
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e7d
+	   |-- fabric-data-attachment-api-v1 1.8.28+9bce411b7d
+	   |-- fabric-data-generation-api-v1 23.2.22+d8b85ef17d
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc197d
+	   |-- fabric-entity-events-v1 2.1.12+14b92d897d
+	   |-- fabric-events-interaction-v0 4.0.35+5ba217127d
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae57d
+	   |-- fabric-item-api-v1 11.5.8+9bce411b7d
+	   |-- fabric-item-group-api-v1 4.2.24+86b3ae577d
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c487d
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e7d
+	   |-- fabric-loot-api-v2 3.0.64+3f89f5a57d
+	   |-- fabric-loot-api-v3 2.0.11+d17682157d
+	   |-- fabric-message-api-v1 6.1.7+3154c1c87d
+	   |-- fabric-model-loading-api-v1 6.0.0+3ffd6ef07d
+	   |-- fabric-networking-api-v1 5.0.13+d269470c7d
+	   |-- fabric-object-builder-api-v1 21.1.24+9bce411b7d
+	   |-- fabric-particles-v1 4.2.2+a0ee59a47d
+	   |-- fabric-recipe-api-v1 8.1.26+d17682157d
+	   |-- fabric-registry-sync-v0 6.1.41+679c8c5c7d
+	   |-- fabric-renderer-api-v1 7.1.1+328a75ba7d
+	   |-- fabric-renderer-indigo 4.0.19+328a75ba7d
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae577d
+	   |-- fabric-rendering-v1 16.0.1+328a75ba7d
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e7d
+	   |-- fabric-resource-loader-v0 3.2.2+3388a3b27d
+	   |-- fabric-resource-loader-v1 1.0.2+225bca407d
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7987d
+	   |-- fabric-screen-handler-api-v1 1.3.150+d17682157d
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9767d
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba7d
+	   |-- fabric-tag-api-v1 1.2.10+2fa446b27d
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c127d
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43437d
+	- fabric-language-kotlin 1.13.6+kotlin.2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.17.3
+	   \-- mixinextras 0.5.0
+	- fallingtree 1.21.9.3
+	- farmersdelight 1.21.10-3.3.2+refabricated
+	   \-- mm 2.3
+	- fortuneancientdebris 1.0
+	- fusion 1.2.11
+	- infinity-cave 0.87
+	- jade 20.0.5+fabric
+	- java 21
+	- journeymap 1.21.9-6.0.0-beta.53
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.21-1.21.9
+	   \-- journeymap-api-fabric 2.0.0-1.21.9-SNAPSHOT
+	- libraryferret 4.0.0
+	- mc-worlds 1.6.4+1.21.9
+	   \-- fabric-permissions-api-v0 0.4.1
+	- mcwdoors 1.1.2
+	- mcwfences 1.2.0
+	- mcwlights 1.1.4
+	- mcwpaintings 1.0.5
+	- mcwpaths 1.1.1
+	- mcwroofs 2.3.2
+	- mcwstairs 1.0.1
+	- mcwtrpdoors 1.1.4
+	- mcwwindows 2.4.1
+	- mine-spawners 1.6.5
+	- minecraft 1.21.9
+	- mr_daycounter 2
+	- mr_dungeons_andtavernsdeserttempleoverhaul 1-v2.1
+	- mr_dungeons_andtavernsjungletempleoverhaul 1-v2.1
+	- mr_dungeons_andtavernspillageroutpostoverhaul 1-v3.3
+	- mr_dungeons_andtavernsswamphutoverhaul 1-v2.3
+	- mstv-base 1.4.8
+	- mstv-masv 1.3.6
+	- onlyhammersandexcavators 1.21.9-0.1
+	- realisticbees 4.3
+	- skinlayers3d 1.9.2
+	   |-- transition 1.0.6
+	   \-- trender 1.0.7
+	- sound_physics_remastered 1.21.9-1.5.1
+	- storagedrawers 19.0.0
+	- trade_cycling 1.21.9-1.0.19
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c4887
+	   \-- fabric-screen-api-v1 3.0.3+86b3ae5787
+	- vcinteraction 1.21.9-1.0.8
+	   \-- polymer-registry-sync-manipulator 0.14.0-rc.2+1.21.9-rc1
+	- voicechat 1.21.9-2.6.4
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c4887
+	   |-- fabric-rendering-v1 16.0.1+328a75ba87
+	   \-- voicechat_api 2.6.0
+	- walljump 1.21.10-1.3.5-fabric
+	   \-- configlibtxf 12.2.8-fabric
+	- waystones 21.9.2
+	- weaponmaster_ydm 4.4.3
+[00:54:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:54:55] [main/INFO]: Compatibility level set to JAVA_21
+[00:54:55] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:54:55] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:54:55] [main/WARN]: Reference map 'forgeconfigapiport.fabric.refmap.json' for forgeconfigapiport.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:54:55] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:54:55] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:54:56] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[00:54:56] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[00:54:56] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[00:54:56] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[00:54:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[00:55:08] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[00:55:08] [main/INFO]: Loading Collective version 8.9.
+[00:55:08] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[00:55:09] [main/INFO]: Loaded config farmersdelight-common.json
+[00:55:09] [main/INFO]: Initializing ServerSide Packet Registries
+[00:55:09] [main/INFO]: Initialize mod Library Ferret
+[00:55:09] [main/INFO]: Initialized mod Library Ferret
+[00:55:12] [main/INFO]: Definitely not up to no good
+[00:55:12] [main/INFO]: [STDOUT]: All 40 have been set properly
+[00:55:12] [main/INFO]: Registering Item Groups for onlyhammersandexcavators
+[00:55:12] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[00:55:12] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[00:55:12] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[00:55:12] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[00:55:12] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[00:55:12] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[00:55:12] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[00:55:12] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[00:55:12] [main/INFO]: New compacting rule 9 minecraft:bamboo = 1 minecraft:bamboo_block
+[00:55:12] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[00:55:12] [main/INFO]: New denied storage item storagedrawers:creative_vending_upgrade
+[00:55:12] [main/INFO]: Adding ore conversions for types: c:storage_blocks, c:ingots, c:nuggets
+[00:55:12] [main/INFO]: Adding ore conversions for materials: aluminum, constantan, steel, uranium, invar, tin, lead, silver, platinum, nickel, osmium, bronze, electrum
+[00:55:12] [main/INFO]: [voicechat] Compatibility version 20
+[00:55:13] [main/INFO]: [voicechat] Loading plugins
+[00:55:13] [main/INFO]: [voicechat] Loaded 2 plugin(s)
+[00:55:13] [main/INFO]: [voicechat] Initializing plugins
+[00:55:13] [main/INFO]: Initializing Simple Voice Chat integration
+[00:55:13] [main/INFO]: [voicechat] Initialized 2 plugin(s)
+[00:55:13] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[00:55:13] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[00:55:13] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[00:55:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:55:14] [main/INFO]: Generating SERVER_DATA
+[00:55:14] [main/INFO]: Collected 0 data resources in 7.667021ms
+[00:55:15] [main/ERROR]: Couldn't load tag mcwlights:chains as it is missing following references: mcwlights:copper_chain (from mcwlights)
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 25, separation: 10, salt: 294215156, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 25, separation: 10, salt: 354415156, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 25, separation: 10, salt: 474155156, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 25, separation: 10, salt: 40842806, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 25, separation: 10, salt: 254835856, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 25, separation: 10, salt: 254145856, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 25, separation: 10, salt: 25482856, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 25, separation: 10, salt: 35482856, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 25, separation: 10, salt: 15482856, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 25, separation: 10, salt: 45482856, useValueFromConfiguration: true}
+[00:55:16] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[00:55:19] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:blocks/pitcher_crop@minecraft:loot_table}.pools[1].entries[0]->{infinity_cave:custom_items/frostpale_plant@minecraft:loot_table}.pools[0].entries[0]: Unreachable entry!
+[00:55:19] [Worker-Main-1/WARN]: Found loot table element validation problem in {infinity_cave:custom_items/frostpale_plant@minecraft:loot_table}.pools[0].entries[0]: Unreachable entry!
+[00:55:21] [Worker-Main-1/INFO]: Found unknown feature minecraft:winter_drop, treating it as failure
+[00:55:22] [main/INFO]: Loaded 4458 recipes
+[00:55:22] [main/INFO]: Loaded 2521 advancements
+[00:55:23] [main/INFO]: Applied 147 biome modifications to 64 of 72 new biomes in 22.83 ms
+[00:55:23] [Server thread/INFO]: Starting minecraft server version 1.21.9
+[00:55:23] [Server thread/INFO]: Loading properties
+[00:55:23] [Server thread/INFO]: Default game type: SURVIVAL
+[00:55:23] [Server thread/INFO]: Generating keypair
+[00:55:23] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.lang.NullPointerException: Cannot invoke "dev.wroud.mc.worlds.McWorld.getManadger()" because "worlds" is null
+	at knot/net.minecraft.server.MinecraftServer.handler$bbf000$mc-worlds$onGetLevelReturn(MinecraftServer.java:5825) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3847(MinecraftServer.java:1220) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_74944(MinecraftServer.java:1730) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3739(MinecraftServer.java:1723) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176$1.run(class_3176.java:190) ~[server-intermediary.jar:?]
+[00:55:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:55:23] [Server thread/INFO]: Using epoll channel type
+[00:55:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:55:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:55:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:55:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:55:24] [Server thread/INFO]: Preparing level "world"
+[00:55:25] [Server thread/INFO]: Loading 25 persistent chunks...
+[00:55:25] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:25] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:26] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:26] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:27] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:27] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:28] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:28] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:29] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:29] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:30] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:30] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:31] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:31] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:32] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:32] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:33] [Server thread/INFO]: Preparing spawn area: 28%
+[00:55:33] [Server thread/INFO]: Time elapsed: 8242 ms
+[00:55:33] [Server thread/INFO]: Done (9.220s)! For help, type "help"
+[00:55:33] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[00:55:33] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[00:55:33] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[00:55:33] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[00:55:33] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[00:55:33] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[00:55:33] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[00:55:33] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[00:55:33] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@17951664 for service interface journeymap.api.services.ClientPlatformService
+[00:55:33] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@1b99bbdf for service interface journeymap.api.services.CommonPlatformService
+[00:55:33] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[00:55:33] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 12801
+[00:56:16] [Server thread/INFO]: Bravoxv[/127.205.29.234:57131] logged in with entity id 51 at (-195.47700482995918, 63.0, -206.3216690993998)
+[00:56:16] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[00:56:16] [Server thread/INFO]: Bravoxv joined the game
+[00:56:17] [Server thread/INFO]: [voicechat] Received secret request of Bravoxv (20)
+[00:56:17] [Server thread/INFO]: [voicechat] Sent secret to Bravoxv
+[00:56:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[00:56:50] [Server thread/WARN]: Bravoxv moved too quickly! -2.4271811844066633,5.080450675958389,16.966872593679213
+[00:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[00:57:55] [Server thread/WARN]: Bravoxv moved too quickly! -3.496086366396497,-2.8533366373111164,18.83487786033026
+[00:58:01] [Server thread/WARN]: Bravoxv moved too quickly! 14.957390588966604,-2.144220047153155,11.08493403602488
+[00:58:54] [Server thread/WARN]: Bravoxv moved too quickly! 0.09569173230164552,4.499736275462979,-9.045436981182661
+[01:00:30] [Server thread/WARN]: Bravoxv moved too quickly! 5.587379833183775,4.423529019809578,-7.398389258098689
+[01:00:39] [Server thread/INFO]: Villager class_1646['Unemployed'/4478, l='ServerLevel[world]', x=162.45, y=43.00, z=-350.36] died, message: 'Unemployed suffocated in a wall'
+[01:00:44] [Server thread/INFO]: Villager class_1646['Unemployed'/4479, l='ServerLevel[world]', x=163.56, y=43.05, z=-352.12] died, message: 'Unemployed suffocated in a wall'
+[01:03:26] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=454, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:26] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=454, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:33] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:33] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:33] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:33] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:33] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=454, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:33] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=454, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:37] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=486, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:37] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=486, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:37] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:37] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:37] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:37] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=485, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:38] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:38] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:38] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:38] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:45] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=511, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:45] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=511, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:45] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=486, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:45] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=486, y=-115, z=-501}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=505, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=505, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=505, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=505, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=505, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=505, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:46] [Worker-Main-2/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=504, y=-115, z=-553}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=533, y=-115, z=-479}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=533, y=-115, z=-479}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=533, y=-115, z=-479}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=533, y=-115, z=-479}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=533, y=-115, z=-479}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:51] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=533, y=-115, z=-479}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=512, y=-115, z=-496}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=521, y=-115, z=-511}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=521, y=-115, z=-511}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=539, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=539, y=-115, z=-505}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=521, y=-115, z=-511}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=521, y=-115, z=-511}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=517, y=-115, z=-536}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:52] [Worker-Main-3/ERROR]: Failed to parse jigsaw replacement state 'minecrat:dripstone_block' at class_2338{x=517, y=-115, z=-536}: Unknown block type 'minecrat:dripstone_block' at position 0: <--[HERE]
+[01:03:56] [Server thread/INFO]: Bravoxv lost connection: Disconnected
+[01:03:56] [Server thread/INFO]: Bravoxv left the game
+[01:03:56] [Server thread/INFO]: [voicechat] Disconnecting client Bravoxv
+[01:04:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
