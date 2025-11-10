@@ -1,0 +1,11 @@
+{
+  "modelList": [
+    "phi3:latest"
+  ],
+  "llmMode": "ollama",
+  "openAIKey": "",
+  "claudeKey": "",
+  "geminiKey": "",
+  "grokKey": "",
+  "botGameProfile": {}
+}
